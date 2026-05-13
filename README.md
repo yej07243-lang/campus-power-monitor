@@ -42,8 +42,8 @@ python3 monitor.py history
 
 | 配置项 | 说明 | 默认值 |
 |--------|------|--------|
-| `building` | 栋数 | `12` |
-| `room` | 房号 | `101` |
+| `building` | 栋数 | `0` |
+| `room` | 房号 | `0` |
 | `check_interval` | 查询间隔（秒） | `300` |
 | `alert_threshold` | 告警阈值（度） | `20` |
 | `alert_cooldown` | 告警冷却（秒） | `3600` |
